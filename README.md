@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 - 🔭  I’m currently working on projects from @PicapointStudio
 - 🌱  I’m constantly learning
-- 📫  How to reach me: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="no_NO" data-type="horizontal" data-theme="dark" data-vanity="msingstad"><a class="LI-simple-link" href='https://no.linkedin.com/in/msingstad?trk=profile-badge'>Martin Singstad</a></div>
+- 📫  How to reach me: <a href='https://no.linkedin.com/in/msingstad'>LinkedIn</a>
 
