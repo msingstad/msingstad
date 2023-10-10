@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  Currently spending my days at <a href='https://www.cloudberries.no' target="_blank" rel="noopener noreferrer">Cloudberries</a>. Come <a href='https://www.cloudberries.no/ledig-stilling' target="_blank" rel="noopener noreferrer">join me</a>!
+- 🔭  Currently spending my days at <a href='https://www.avinor.no' target="_blank" rel="noopener noreferrer">Avinor</a> <a href='https://www.cloudberries.no' target="_blank" rel="noopener noreferrer">Cloudberries</a>. Come <a href='https://www.cloudberries.no/ledig-stilling' target="_blank" rel="noopener noreferrer">join me</a>!
 - 💡  Spending extra hours driving <a href="https://tipio.no" target="_blank" rel="noopener noreferrer">Tipio</a> and <a href="https://mamon.no" target="_blank" rel="noopener noreferrer">Mamon</a> forward.
 - 👀  I’m always open for exciting projects through <a href='mailto:martin@smail.no?subject=Found you on GitHub and wanted to take a chat!'>Martin Singstad ENK</a>. 
 - 🌱  Come learn new things with me: <a href='https://discord.gg/z5TXt2J' target="_blank" rel="noopener noreferrer">Discord - Norsk programmering</a>
