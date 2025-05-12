@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  Currently spending my days at <a href='https://www.avinor.no' target="_blank" rel="noopener noreferrer">Avinor</a>
+- 🔭  Currently spending my days at <a href='https://www.avinor.no' target="_blank" rel="noopener noreferrer">Avinor</a> through <a href='https://github.com/Commit-AS' target="_blank" rel="noopener noreferrer">Commit</a>
 - 💡  Spending extra hours driving <a href="https://mamon.no" target="_blank" rel="noopener noreferrer">Mamon</a> forward.
 - 👀  I’m always open for exciting projects through <a href='mailto:martin@smail.no?subject=Found you on GitHub and wanted to take a chat!'>Martin Singstad ENK</a>. 
 - 🌱  Come learn new things with me: <a href='https://discord.gg/z5TXt2J' target="_blank" rel="noopener noreferrer">Discord - Norsk programmering</a>
